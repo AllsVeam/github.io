@@ -2293,7 +2293,7 @@ input, select, textarea {
 		/* Wrappers */
 
 			#header-wrapper {
-				padding: 3em 0 1em 0;
+				padding: 0 0 0 0;
 				text-align: center;
 			}
 
@@ -2660,7 +2660,7 @@ input, select, textarea {
 		/* Wrappers */
 
 			#header-wrapper {
-				padding: 3em 0 1.5em 0;
+				padding: 0 0 0 0;
 			}
 
 			#banner-wrapper {
@@ -2723,12 +2723,12 @@ input, select, textarea {
 
 			#footer section {
 				border-bottom: solid 1px #ccc;
-				padding-bottom: 3em;
+				padding-bottom: 1em;
 				margin-bottom: 1em !important;
 			}
 
 			#copyright {
-				text-align: left;
+				text-align: center;
 			}
 
 	}
